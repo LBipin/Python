@@ -1,1 +1,1 @@
-# Python These are Python problems done in jupyter notebook
+These are Python problems done in jupyter notebook
